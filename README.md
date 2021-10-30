@@ -1,1 +1,1 @@
-#Add '?raw=true' to the url to use on a website
+# Add `?raw=true` to URL to embed in HTML
